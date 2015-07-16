@@ -1,0 +1,34 @@
+#step-1{
+    height: auto!important;
+    width: 100%!important;
+}
+.swMain{
+
+    width: 100%!important;
+    /*height: auto!important;*/
+}
+
+.var_name{
+
+}
+
+.opt{
+
+}
+
+.hidden{
+    display: block;
+
+}
+
+.checked{
+    background-color: #05B2D2;
+}
+
+.photo{
+    height: 50px;
+}
+
+.error{
+    color: #b92c28;
+}
